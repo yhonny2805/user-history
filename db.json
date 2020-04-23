@@ -2,9 +2,9 @@
   "holidays": [
     { 
     "id": 1,
-    "Start Date": "04-02-2020",  
-    "End Date": "04-06-2020", 
-    "Total Holidays Spent": "4"
+    "Startd": "04-02-2020",  
+    "Endd": "04-06-2020", 
+    "TotalHolidaysSpent": "4"
     },
     { 
     "id": 2, 
