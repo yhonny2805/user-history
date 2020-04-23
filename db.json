@@ -4,61 +4,61 @@
     "id": 1,
     "start": "04-02-2020",  
     "end": "04-06-2020", 
-    "Spent": "4"
+    "spent": "4"
     },
     { 
     "id": 2, 
-    "Start Date": "10-03-2020", 
-    "End Date": "12-03-2020", 
-    "Total Holidays Spent": "2"
+    "start": "10-03-2020", 
+    "end": "12-03-2020", 
+    "spent": "2"
     },
     { 
     "id": 3, 
-    "Start Date": "22-03-2020",  
-    "End Date": "25-03-2020", 
-    "Total Holidays Spent": "3"
+    "start": "22-03-2020",  
+    "end": "25-03-2020", 
+    "spent": "3"
     },
     { 
     "id": 4, 
-    "Start Date": "1-04-2020", 
-    "End Date": "1-04-2020", 
-    "Total Holidays Spent": "1"
+    "start": "1-04-2020", 
+    "end": "1-04-2020", 
+    "spent": "1"
     },
     { 
     "id": 5, 
-    "Start Date": "05-04-2020",  
-    "End Date": "07-04-2020", 
-    "Total Holidays Spent": "2"
+    "start": "05-04-2020",  
+    "end": "07-04-2020", 
+    "spent": "2"
     },
     { 
     "id": 6, 
-    "Start Date": "15-04-2020", 
-    "End Date": "17-04-2020",  
-    "Total Holidays Spent": "2"
+    "start": "15-04-2020", 
+    "end": "17-04-2020",  
+    "spent": "2"
     },
     { 
     "id": 7, 
-    "Start Date": "21-04-2020",  
-    "End Date": "21-04-2020", 
-    "Total Holidays Spent": "1"
+    "start": "21-04-2020",  
+    "end": "21-04-2020", 
+    "spent": "1"
     },
     { 
     "id": 8, 
-    "Start Date": "10-05-2020", 
-    "End Date": "10-05-2020", 
-    "Total Holidays Spent": "1"
+    "start": "10-05-2020", 
+    "end": "10-05-2020", 
+    "spent": "1"
     },
     { 
     "id": 9, 
-    "Start Date": "15-05-2020", 
-    "End Date": "15-05-2020", 
-    "Total Holidays Spent": "1"
+    "start": "15-05-2020", 
+    "end": "15-05-2020", 
+    "spent": "1"
     },
     { 
     "id": 10, 
-    "Start Date": "22-06-2020", 
-    "End Date": "24-06-2020", 
-    "Total Holidays Spent": "2"
+    "start": "22-06-2020", 
+    "end": "24-06-2020", 
+    "spent": "2"
     }
     ],
   "profile": {
