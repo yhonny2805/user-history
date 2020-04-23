@@ -1,0 +1,67 @@
+{
+  "employees": [
+    { 
+    "id": 1,
+    "Start Date": "04-02-2020",  
+    "End Date": "04-06-2020", 
+    "Total Holidays Spent": "4"
+    },
+    { 
+    "id": 2, 
+    "Start Date": "10-03-2020", 
+    "End Date": "12-03-2020", 
+    "Total Holidays Spent": "2"
+    },
+    { 
+    "id": 3, 
+    "Start Date": "22-03-2020",  
+    "End Date": "25-03-2020", 
+    "Total Holidays Spent": "3"
+    },
+    { 
+    "id": 4, 
+    "Start Date": "1-04-2020", 
+    "End Date": "1-04-2020", 
+    "Total Holidays Spent": "1"
+    },
+    { 
+    "id": 5, 
+    "Start Date": "05-04-2020",  
+    "End Date": "07-04-2020", 
+    "Total Holidays Spent": "2"
+    },
+    { 
+    "id": 6, 
+    "name": "15-04-2020", 
+    "End Date": "17-04-2020",  
+    "Total Holidays Spent": "2"
+    },
+    { 
+    "id": 7, 
+    "name": "21-04-2020",  
+    "End Date": "21-04-2020", 
+    "Total Holidays Spent": "1"
+    },
+    { 
+    "id": 8, 
+    "Start Date": "10-05-2020", 
+    "End Date": "10-05-2020", 
+    "Total Holidays Spent": "1"
+    },
+    { 
+    "id": 9, 
+    "Start Date": "15-05-2020", 
+    "username": "15-05-2020", 
+    "Total Holidays Spent": "1"
+    },
+    { 
+    "id": 10, 
+    "Start Date": "22-06-2020", 
+    "username": "24-06-2020", 
+    "Total Holidays Spent": "2"
+    }
+    ],
+  "profile": {
+    "name": "typicode"
+      }
+}
